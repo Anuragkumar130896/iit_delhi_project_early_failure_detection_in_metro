@@ -88,7 +88,7 @@ The project follows a structured methodology:
 
 ## 5. Conclusion
 
-This project demonstrates the application of machine learning for predictive maintenance in air compressor systems. By analyzing sensor data and identifying key predictive features, the developed models can provide early warnings of potential air leak failures[cite: 365, 366, 367]. This can contribute to:
+This project demonstrates the application of machine learning for predictive maintenance in air compressor systems. By analyzing sensor data and identifying key predictive features, the developed models can provide early warnings of potential air leak failures. This can contribute to:
 
 * Reduced downtime
 * Optimized maintenance schedules
@@ -102,4 +102,10 @@ This project demonstrates the application of machine learning for predictive mai
 
 ## 7. Relevant Papers
 
-* \[1] Davari, N., Veloso, B., Ribeiro, R.P., Pereira, P.M., Gama, J.: Predictive maintenance based on anomaly detection using... (Incomplete title in the original notebook) [cite: 299, 300, 301]
+Relevant Papers: [1]- Davari, N., Veloso, B., Ribeiro, R.P., Pereira, P.M., Gama, J.: Predictive maintenance based on anomaly detection using deep learning for air production unit in the railway industry. In: 2021 IEEE 8th International Conference on Data Science and Advanced Analytics (DSAA). pp. 1–10. IEEE (2021) (DOI: 10.1109/DSAA53316.2021.9564181) https://ieeexplore.ieee.org/document/9564181
+
+[2] Veloso, B., Ribeiro, R.P., Pereira, P.M., Gama, J.: The MetroPT dataset for predictive maintenance. Scientific Data 9, no. 1 (2022): 764. (DOI: 10.1038/s41597-022-01877-3)
+
+[3]-Barros, M., Veloso, B., Pereira, P.M., Ribeiro, R.P., Gama, J.: Failure detection of an air production unit in the operational context. In: IoT Streams for Data-Driven Predictive Maintenance and IoT, Edge, and Mobile for Embedded Machine Learning, pp. 61–74. Springer (2020) (DOI: 10.1007/978-3-030-66770-2_5)
+
+Source: Narjes Davari, INESC TEC - Laboratory of Artificial Intelligence and Decision Support, narjes.davari@inesctec.pt Bruno Veloso, INESC TEC - Laboratory of Artificial Intelligence and Decision Support, and Faculty of Economics, University of Porto, Portugal bveloso@fep.up.pt Rita P. Ribeiro, INESC TEC - Laboratory of Artificial Intelligence and Decision Support, and Faculty of Sciences, University of Porto, Portugal. rpribeiro@fc.up.pt Joao Gama, INESC TEC - Laboratory of Artificial Intelligence and Decision Support, and Faculty of Economics, University of Porto, Portugal. jgama@fep.up.pt
